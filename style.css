@@ -170,3 +170,22 @@ h1 {
         padding: 10px 5px; 
     }
 }
+
+
+.email-link {
+    color: white;          
+    text-decoration: none;  
+  }
+  
+  .email-link:hover {
+    color: lightgray;     
+  }
+
+  .telegram-link {
+    color: white;          
+    text-decoration: none;  
+  }
+  
+  .telegram-link:hover {
+    color: lightgray;       
+  }
